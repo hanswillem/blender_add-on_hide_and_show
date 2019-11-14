@@ -105,7 +105,6 @@ classes = (
     HIDESHOW_PT_Panel,
     HIDE_OT_Operator,
     SHOW_OT_Operator,
-    MyPropertyGroup
 )
 
 def register():
